@@ -2,7 +2,7 @@
 import unittest
 import HtmlTestRunner
 from HtmlTestRunner.runner import HTMLTestRunner
-from test import start, remotelogin
+from _test import start, remotelogin
 
 class Remotetest(unittest.TestCase):
     
