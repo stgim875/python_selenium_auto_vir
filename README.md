@@ -1,2 +1,2 @@
-# python_selenium_auto_vir
-automad testing
+# auto_python_selenium
+Automation test
